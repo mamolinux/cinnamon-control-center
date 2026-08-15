@@ -1,3 +1,10 @@
+cinnamon-control-center (6.7.3) alfa; urgency=medium
+
+  [ Michael Webster ]
+  * build: Remove desktop-file-links.py, bump meson requirement.
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 15 Aug 2026 12:39:35 +0200
+
 cinnamon-control-center (6.7.2) zena; urgency=medium
 
   [ Michael Webster ]
